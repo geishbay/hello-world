@@ -1,2 +1,5 @@
 # hello-world
-Beginner repository
+Hi people!
+
+I am geishbay. 
+I've done yoga on the moon :)
